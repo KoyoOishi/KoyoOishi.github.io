@@ -1,0 +1,20 @@
+baseURL = 'https://KoyoOishi.github.io/'
+title = 'Koyo Oishi'
+theme = 'PaperMod'
+defaultContentLanguage = 'en' # 基本は英語
+
+[params]
+    math = true
+    ShowFullTextContent = false
+
+# --- 多言語設定 ---
+[languages]
+  [languages.en]
+    languageName = 'English'
+    title = 'Koyo Oishi'
+    weight = 1
+
+  [languages.ja]
+    languageName = '日本語'
+    title = '大石 皐遥'
+    weight = 2
