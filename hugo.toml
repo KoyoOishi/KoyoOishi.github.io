@@ -10,6 +10,7 @@ defaultContentLanguage = 'en' # 基本は英語
 [params]
   math = true
   ShowFullTextContent = false
+  displayFullLangName = true
 
 # --- 多言語設定 ---
 [languages]
