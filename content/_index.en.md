@@ -1,7 +1,7 @@
 ---
 ---
 
-I am Koyo Oishi, a master's student at the Research Institute for Mathematical Sciences ([RIMS](https://www.kurims.kyoto-u.ac.jp/ja/)), Kyoto University. My research primarily focuses on probability theory on complicated spaces.
+I am Koyo Oishi, a master's student at the Research Institute for Mathematical Sciences ([RIMS](https://www.kurims.kyoto-u.ac.jp/en/index.html)), Kyoto University. My research primarily focuses on probability theory on complicated spaces.
 
 E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
