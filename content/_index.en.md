@@ -6,23 +6,23 @@ I am Koyo Oishi, a master's student at the Research Institute for Mathematical S
 E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Preprints</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Preprints</span></summary>
 
 - Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [arXiv:2605.23308](https://arxiv.org/abs/2605.23308)  
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Published Papers</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Published Papers</span></summary>
 
 - Nothing.
 
 </details>
 
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Previous Talks</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Previous Talks</span></summary>
 
 - 2026/3/3, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [Probability Early Spring Seminar](https://sites.google.com/view/prob-ess2025), Kyoto Sangyo University．
 
@@ -31,8 +31,8 @@ E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Upcomming Talks</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Upcomming Talks</span></summary>
 
 - 2026/6/11, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, Invited, RIMS probability monthly seminar, RIMS.
 
@@ -44,16 +44,16 @@ E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Education</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Education</span></summary>
 
 - 2025/4/1~, I am currently a master's student, RIMS, Kyoto University, Supervisor: Dr. [David Croydon](https://www.kurims.kyoto-u.ac.jp/~croydon/).
 - 2021/4/1~2025/3/31, Bachelor, Department of Mathematics, Kyoto University, Supervisor: Dr. [Yushi Hamaguchi](https://sites.google.com/view/yushihamaguchi).
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">Other</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">Other</span></summary>
 
 - To be added.
 

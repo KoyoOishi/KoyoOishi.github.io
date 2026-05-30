@@ -6,23 +6,23 @@
 E-mail:koishi+at+kurims.kyoto-u.ac.jp
 
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">プレプリント</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">プレプリント</span></summary>
 
 - Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [arXiv:2605.23308](https://arxiv.org/abs/2605.23308)  
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">査読あり論文</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">査読あり論文</span></summary>
 
 - なし
 
 </details>
 
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">過去の講演</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">過去の講演</span></summary>
 
 - 2026/3/3, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [確率論早春セミナー](https://sites.google.com/view/prob-ess2025), 京都産業大学．
 
@@ -31,8 +31,8 @@ E-mail:koishi+at+kurims.kyoto-u.ac.jp
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">今後の講演</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">今後の講演</span></summary>
 
 - 2026/6/11, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, 招待講演, 数理研月例セミナー, 数理解析研究所．
 
@@ -44,8 +44,8 @@ E-mail:koishi+at+kurims.kyoto-u.ac.jp
 
 </details>
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">経歴</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">経歴</span></summary>
 
 - 2025/4/1~, 現在修士課程に在学中, 京都大学理学研究科, 指導教員は[David Croydon](https://www.kurims.kyoto-u.ac.jp/~croydon/)先生です．
 - 2021/4/1~2025/3/31, 学士, 京都大学理学部数学教室, 指導教員は[濱口雄史](https://sites.google.com/view/yushihamaguchi)先生でした．
@@ -53,8 +53,8 @@ E-mail:koishi+at+kurims.kyoto-u.ac.jp
 </details>
 
 
-<details>
-<summary><span style="font-size: 1.6em; font-weight: bold;">そのほか</span></summary>
+<details style="margin-bottom: 40px;">
+<summary><span style="font-size: 1.3em; font-weight: bold;">そのほか</span></summary>
 
 - 追加予定．
 
