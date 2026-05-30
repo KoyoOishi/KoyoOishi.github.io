@@ -3,9 +3,13 @@ title = 'Koyo Oishi'
 theme = 'PaperMod'
 defaultContentLanguage = 'en' # 基本は英語
 
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
-    math = true
-    ShowFullTextContent = false
+  math = true
+  ShowFullTextContent = false
 
 # --- 多言語設定 ---
 [languages]
@@ -18,6 +22,3 @@ defaultContentLanguage = 'en' # 基本は英語
     languageName = '日本語'
     title = '大石 皐遥'
     weight = 2
-
- [markup.goldmark.renderer]
-  unsafe = true   
