@@ -18,3 +18,6 @@ defaultContentLanguage = 'en' # 基本は英語
     languageName = '日本語'
     title = '大石 皐遥'
     weight = 2
+
+ [markup.goldmark.renderer]
+  unsafe = true   
