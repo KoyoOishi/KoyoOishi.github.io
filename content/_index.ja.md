@@ -3,7 +3,7 @@
 
 [京都大学数理解析研究所](https://www.kurims.kyoto-u.ac.jp/ja/)修士2回生の大石皐遥(おおいし こうよう)と申します．複雑な空間に関係する確率論に興味があります．
 
-E-mail:koishi+at+kurims.kyoto-u.ac.jp
+E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
 
 <details style="margin-bottom: 40px;">
