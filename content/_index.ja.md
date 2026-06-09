@@ -36,6 +36,8 @@ E-mail: koishi+at+kurims.kyoto-u.ac.jp
 
 - 2026/6/11, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, 招待講演, 数理研月例セミナー, 数理解析研究所．
 
+- 2026/7/3, タイトル未定, ポスター, 理学共創イノベーションコンソーシアム, 京都大学
+
 - 2026/8, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [確率論ヤングサマーセミナー](https://sites.google.com/view/yss2026), いこいの村はりま．
 
 - 2026/10, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, 招待講演, [大規模相互作用系の確率解析](https://sites.google.com/view/workshop-salsis/home/2026), 東京大学．
