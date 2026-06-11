@@ -29,12 +29,13 @@ E-mail: koishi+at+kurims.kyoto-u.ac.jp
 - 2025/8/6, Killing of stochastic process associated with resistance form, [確率論ヤングサマーセミナー](https://sites.google.com/view/probability-yss/%E3%83%9B%E3%83%BC%E3%83%A0/2025%E5%B9%B4%E5%BA%A6), おおむたハイツ．
 
 
+- 2026/6/11, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, 招待講演, 数理研月例セミナー, 数理解析研究所．
+
+
 </details>
 
 <details style="margin-bottom: 40px;">
 <summary><span style="font-size: 1.3em; font-weight: bold;">今後の講演</span></summary>
-
-- 2026/6/11, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, 招待講演, 数理研月例セミナー, 数理解析研究所．
 
 - 2026/7/3, タイトル未定, ポスター, 理学共創イノベーションコンソーシアム, 京都大学.
 
