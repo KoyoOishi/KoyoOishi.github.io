@@ -36,7 +36,7 @@ E-mail: koishi+at+kurims.kyoto-u.ac.jp
 <details style="margin-bottom: 40px;">
 <summary><span style="font-size: 1.3em; font-weight: bold;">Upcomming Talks</span></summary>
 
-- 2026/7/3, not decided, Science Co-creation Innovation Consortium, poster, Kyoto University.
+- 2026/7/3, Convergence rates of stochastic processes on complex spaces, Science Co-creation Innovation Consortium, poster, Kyoto University.
 
 - 2026/8, Convergence rate estimates for semigroups and heat kernels associated with resistance forms, [Probability Young Summer Seminar](https://sites.google.com/view/yss2026), Ikoi no Mura Harima.
 
